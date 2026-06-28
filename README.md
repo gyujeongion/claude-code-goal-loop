@@ -10,6 +10,8 @@ pass** runs before any patch when something breaks.
 
 ---
 
+![goal-loop demo](demo/goal-loop.gif)
+
 ## The problem with "just loop until it works"
 
 Autonomous agent loops fail in two opposite ways:
